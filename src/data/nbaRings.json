@@ -1,0 +1,10 @@
+[
+  { "label": "Lakers", "value": 17 },
+  { "label": "Celtics", "value": 18 },
+  { "label": "Warriors", "value": 7 },
+  { "label": "Bulls", "value": 6 },
+  { "label": "Spurs", "value": 5 },
+  { "label": "Heat", "value": 3 },
+  { "label": "Pistons", "value": 3 },
+  { "label": "76ers", "value": 3 }
+]
